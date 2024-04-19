@@ -1,0 +1,4 @@
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\Hochart.RG.DAL\Hochart.RG.Cli\obj\Debug\net8.0\Hochart.RG.Cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\Hochart.RG.DAL\Hochart.RG.Cli\obj\Debug\net8.0\Hochart.RG.Cli.AssemblyInfoInputs.cache
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\Hochart.RG.DAL\Hochart.RG.Cli\obj\Debug\net8.0\Hochart.RG.Cli.AssemblyInfo.cs
+C:\Users\hugo\OneDrive\Bureau\EPSI COURS\Etienne Moustache\Exo\Hochart.RG.DAL\Hochart.RG.Cli\obj\Debug\net8.0\Hochart.RG.Cli.csproj.CoreCompileInputs.cache

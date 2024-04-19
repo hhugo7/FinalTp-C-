@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hochart.RG.DAL", "Hochart.RG.DAL\Hochart.RG.DAL.csproj", "{F57B06FB-96AC-4F5B-AB76-205CF0145090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hochart.RG.Cli", "Hochart.RG.Cli\Hochart.RG.Cli.csproj", "{161B7059-72DD-4D8E-A129-43FAC6B66431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F57B06FB-96AC-4F5B-AB76-205CF0145090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57B06FB-96AC-4F5B-AB76-205CF0145090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57B06FB-96AC-4F5B-AB76-205CF0145090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57B06FB-96AC-4F5B-AB76-205CF0145090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161B7059-72DD-4D8E-A129-43FAC6B66431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161B7059-72DD-4D8E-A129-43FAC6B66431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161B7059-72DD-4D8E-A129-43FAC6B66431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161B7059-72DD-4D8E-A129-43FAC6B66431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4BA5FD2-9096-4230-A110-1041A14EC0FE}
+	EndGlobalSection
+EndGlobal
