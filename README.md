@@ -42,6 +42,3 @@ L'application console peut être lancée avec l'option -choix suivie d'une ville
 
 hugo.hochart@ecoles-epsi.net
 
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
